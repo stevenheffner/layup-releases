@@ -19,7 +19,8 @@ Not sure which you have? Apple menu → **About This Mac**. "Chip: Apple M…" m
 2. Open the `.dmg` file you downloaded.
 3. Drag the Layup icon into the Applications folder in that window.
 4. Open Applications and double-click Layup.
-5. If your Mac says it cannot open Layup: open System Settings, click Privacy & Security, scroll down, and click **Open Anyway** next to the Layup message. Then open Layup again. You only do this once.
+5. The first time, your Mac shows **"Layup" Not Opened** ("Apple could not verify…"). Click **Done**, not Move to Trash. Open System Settings, click **Privacy & Security**, scroll down, and click **Open Anyway** next to the Layup message. Open Layup again and click **Open Anyway** once more (your Mac may ask for your password). You only do this once.
+6. Layup opens on a **Get Layup ready** list: sign in, allow the microphone, allow the call audio, and a practice call. Follow it top to bottom.
 
 ## Sign in
 
