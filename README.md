@@ -20,7 +20,7 @@ Not sure which you have? Apple menu → **About This Mac**. "Chip: Apple M…" m
 3. Drag the Layup icon into the Applications folder in that window.
 4. Open Applications and double-click Layup.
 5. The first time, your Mac shows **"Layup" Not Opened** ("Apple could not verify…"). Click **Done**, not Move to Trash. Open System Settings, click **Privacy & Security**, scroll down, and click **Open Anyway** next to the Layup message. Open Layup again and click **Open Anyway** once more (your Mac may ask for your password). You only do this once.
-6. Layup opens on a **Get Layup ready** list: sign in, allow the microphone, allow the call audio, and a practice call. Follow it top to bottom.
+6. Layup opens on a sign-in screen. After you sign in, a **Get Layup ready** list takes you through the microphone, the call audio, headphones and a practice call. Follow it top to bottom. Live calls open once it's done. When you allow the call audio, macOS may ask for your password, then offers **Quit & Reopen**: click it, and Layup comes back on the list.
 
 ## Sign in
 
